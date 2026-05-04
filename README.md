@@ -1,3 +1,11 @@
+## 🚀 Quick Summary
+
+- Scraped 1000+ smartwatch records from Flipkart  
+- Performed data cleaning and feature engineering  
+- Analyzed pricing trends, brand dominance, and rating patterns  
+- Found that mid-range products dominate and higher price does not guarantee better reviews
+
+
 # Web Scraping and Market Analysis of Smartwatches on Flipkart.  
 ### Web Scraping & Exploratory Data Analysis (EDA)
 
