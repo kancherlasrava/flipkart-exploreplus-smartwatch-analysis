@@ -1,4 +1,4 @@
-## 🚀 Quick Summary
+##  Quick Summary
 
 - Scraped 1000+ smartwatch records from Flipkart  
 - Performed data cleaning and feature engineering  
